@@ -1,0 +1,38 @@
+/*Defaults*********************************************************/
+* {
+  margin: 0;
+  padding: 0; }
+
+P, li {
+  font-family: "Garamond", sans-serif;
+  font-size: 1.5rem;
+  color: #444; }
+/****************************************************************************************/
+                                        /*Style*/
+/****************************************************************************************/
+footer, header{
+    width: 100%;
+    height: 7%;
+    background-color: #3B628F;
+}
+header h1{
+    text-align: center;
+    line-height: 60px;
+    color:#DBD1BF;
+}
+
+.pageContent{
+   background-color: #DBD1BF;
+}
+li{
+    list-style: none;
+    border: 1px solid #8F7F64;
+    background-color: #E5F2FF;
+    padding: 0.5rem 0;
+    padding-left: 5%;
+}
+footer p{
+    text-align: center;
+     line-height: 60px;
+    color:#DBD1BF;
+}
